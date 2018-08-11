@@ -1,0 +1,8 @@
+.App {
+  margin: 0;
+  padding: 48px;
+}
+
+.App .add-todo {
+  width: 400px;
+}
