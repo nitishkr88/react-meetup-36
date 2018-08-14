@@ -13,7 +13,7 @@ class TodoApp extends Component {
           <div>
             <div className="add-todo">
               <TextInput
-                label="Add Todo"
+                label="Add/Search Todo"
                 value={searchText}
                 onChange={onSearch}
                 onAddItem={onAddTodo}
